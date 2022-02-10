@@ -6,6 +6,10 @@ Dashiell is a static site generator written in Java.
 
 None yet, I'm writing them
 
+
+== Commands
+ * build - generates a static site
+ * serve - serves the generated site from memory
 == How to use
 
 To run it install https://jbang.dev/downloads[jbang]:

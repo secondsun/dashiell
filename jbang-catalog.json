@@ -1,7 +1,7 @@
 {
   "catalogs": {},
   "aliases": {
-    "main": {
+    "dashiell": {
       "script-ref": "src/main/java/dev/secondsun/dashiell/Main.java",
       "properties": {}
     }
