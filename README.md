@@ -1,2 +1,0 @@
-# dashiell
-Static Site Generator
