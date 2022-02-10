@@ -1,0 +1,15 @@
+# Dashiell's homepage
+
+This is a dogfood project that shows Dashiell building the dashiell website.
+
+# How to build
+
+```
+jbang main@secondsun/dashiell build
+```
+
+# Live server
+
+```
+jbang main@secondsun/dashiell serve
+```
